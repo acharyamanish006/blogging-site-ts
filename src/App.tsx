@@ -1,4 +1,6 @@
 
+
+
 import Login from "./Login/Login"
 
 const App = () => {
@@ -6,7 +8,8 @@ const App = () => {
     <div>
       <Login/>
     </div>
-  )
-}
+=======
+)
+    }
 
 export default App
