@@ -1,12 +1,15 @@
-import SignIn from "./pages/SignIn/sign-in"
 
-function App() {
+
+
+import Login from "./Login/Login"
+
+const App = () => {
   return (
-    <>
-      <h1>Hello World</h1>
-      <SignIn/>
-    </>
-  )
-}
+    <div>
+      <Login/>
+    </div>
+=======
+)
+    }
 
 export default App
