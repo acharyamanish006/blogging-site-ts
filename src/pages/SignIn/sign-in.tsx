@@ -1,7 +1,9 @@
 
+import styles from   './style.module.css'
+
 const SignIn = () => {
   return (
-    <div>SignIn</div>
+    <div className={styles.box}>SignIn</div>
   )
 }
 
